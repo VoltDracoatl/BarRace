@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BarRace/static/css/main.e6c13ad2.css",
+    "main.js": "/BarRace/static/js/main.a545f3c8.js",
+    "index.html": "/BarRace/index.html",
+    "main.e6c13ad2.css.map": "/BarRace/static/css/main.e6c13ad2.css.map",
+    "main.a545f3c8.js.map": "/BarRace/static/js/main.a545f3c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a545f3c8.js"
+  ]
+}
