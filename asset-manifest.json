@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/BarRace/static/css/main.e6c13ad2.css",
-    "main.js": "/BarRace/static/js/main.10a23531.js",
+    "main.js": "/BarRace/static/js/main.ec6b8bf6.js",
     "index.html": "/BarRace/index.html",
     "main.e6c13ad2.css.map": "/BarRace/static/css/main.e6c13ad2.css.map",
-    "main.10a23531.js.map": "/BarRace/static/js/main.10a23531.js.map"
+    "main.ec6b8bf6.js.map": "/BarRace/static/js/main.ec6b8bf6.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.10a23531.js"
+    "static/js/main.ec6b8bf6.js"
   ]
 }
